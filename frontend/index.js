@@ -10,4 +10,4 @@ console.log('Hej C!')
 
 console.log('Hej D!')
 
-console.log('Hej E!')
+console.log('Hej Kristina Kristina!')
