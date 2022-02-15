@@ -1,3 +1,5 @@
-console.log('Hej you you you you!')
+console.log('Hej!')
 
-console.log('Hej you!')
+console.log('Hej allihopa!')
+
+console.log('Hej hej!')
